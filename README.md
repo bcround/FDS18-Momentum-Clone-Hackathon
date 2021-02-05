@@ -2,7 +2,7 @@
 
 ## 👍구현 페이지 소개
 
-![main-page](/Users/bongchul/Desktop/Javascript_project/momentumClone/FDS18-Momentum-Clone-Hackathon/client/resource/main-page.png)
+![main-page](https://raw.githubusercontent.com/bcround/FDS18-Momentum-Clone-Hackathon/develop/client/resource/main-page.png)
 
 
 
@@ -37,5 +37,5 @@
 
 ## ⭐️프로젝트 구조
 
-![data-structure](/Users/bongchul/Desktop/Javascript_project/momentumClone/FDS18-Momentum-Clone-Hackathon/client/resource/data-structure.png)
+![data-structure](https://raw.githubusercontent.com/bcround/FDS18-Momentum-Clone-Hackathon/develop/client/resource/data-structure.png)
 
