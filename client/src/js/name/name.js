@@ -1,5 +1,7 @@
-import nameEdit from './nameEdit';
+import fetchName from './fetchName';
+import addName from './addName';
 
 export default () => {
-  nameEdit();
+  fetchName();
+  addName();
 };
