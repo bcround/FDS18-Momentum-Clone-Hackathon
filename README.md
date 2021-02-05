@@ -2,7 +2,7 @@
 
 ## 👍구현 페이지 Demo
 
-![demo](/Users/bongchul/Desktop/Javascript_project/momentumClone/FDS18-Momentum-Clone-Hackathon/client/resource/demo.gif)
+![demo](https://github.com/bcround/FDS18-Momentum-Clone-Hackathon/blob/develop/client/resource/demo.gif?raw=true)
 
 ## 👨‍👦‍👦팀원 소개
 
