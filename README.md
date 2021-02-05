@@ -4,6 +4,8 @@
 
 ![demo](https://github.com/bcround/FDS18-Momentum-Clone-Hackathon/blob/develop/client/resource/demo.gif?raw=true)
 
+---
+
 ## 👨‍👦‍👦팀원 소개
 
 [나윤호]: https://github.com/nayounho
