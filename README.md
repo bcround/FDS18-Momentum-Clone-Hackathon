@@ -1,10 +1,8 @@
 # FDS18-Momentum-Clone-Hackathon
 
-## 👍구현 페이지 소개
+## 👍구현 페이지 Demo
 
-![main-page](https://raw.githubusercontent.com/bcround/FDS18-Momentum-Clone-Hackathon/develop/client/resource/main-page.png)
-
-
+![demo](/Users/bongchul/Desktop/Javascript_project/momentumClone/FDS18-Momentum-Clone-Hackathon/client/resource/demo.gif)
 
 ## 👨‍👦‍👦팀원 소개
 
