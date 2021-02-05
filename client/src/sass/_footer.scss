@@ -1,5 +1,4 @@
 footer {
-  background: rgba(60, 120, 180, 0.5);
   // background-color: blue;
   display: flex;
   flex-direction: row;
@@ -56,18 +55,16 @@ footer {
   animation-fill-mode: forwards;
   display: block;
   opacity: 1;
-  // animation:fade-in 2000ms alternate infinite cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
-// @keyframes fade-in {
-//   from {
-//     opacity: 0;
-//   }
-//   to {
-//     opacity: 1;
-//   }
-// }
-
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
 
 .todo-list-btn {
   color: #ffffff;
@@ -82,24 +79,3 @@ footer {
   text-align: right;
   width: 30%;
 }
-
-
-
-
-
-
-
-// @keyframes fade-in {
-//   0%{
-//       font-size: 2px;
-//       transform: translate(0,0);  
-//   }
-//   50%{
-//       font-size: 25px;
-//       transform: translate(-100px,-180px);
-//   }
-//   100%{
-//       font-size:50px;
-//       transform: translate(-50px,-75px);
-//   }
-// }
