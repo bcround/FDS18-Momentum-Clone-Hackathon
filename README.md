@@ -8,9 +8,9 @@
 
 ## 👨‍👦‍👦팀원 소개
 
-[나윤호]: https://github.com/nayounho
-[신봉철]: https://github.com/bcround
-[탁진호]: https://github.com/sofreshian
+[나윤호]: https://github.com/nayounho	"나윤호"
+[신봉철]: https://github.com/bcround	"신봉철"
+[탁진호]: https://github.com/sofreshian	"탁진호"
 
 ---
 
