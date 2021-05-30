@@ -1,0 +1,116 @@
+main {
+  height: 80vh;
+  color: #fff;
+  width: 100%;
+
+  .clock {
+    font-size: 16rem;
+    text-align: center;
+    padding-top: 20vh;
+  }
+
+  .greeting {
+    text-align: center;
+
+    .greeting-main {
+      font-size: 6rem;
+    }
+
+    .greeting-username {
+      font-size: 6rem;
+    }
+
+    .greeting-username-input {
+      border: none;
+      background: transparent;
+      border-bottom: 5px solid #fff;
+      font-size: 6rem;
+      color: #fff;
+      outline: none;
+    }
+
+    .greeting-edit-btn {
+      border: none;
+      background: transparent;
+      color: #fff;
+      font-size: 4rem;
+    }
+  }
+  .main-todo {
+    text-align: center;
+    margin-top: 100px;
+
+    .main-focus-sen {
+      font-size: 4rem;
+    }
+
+    .main-focus-input {
+      border: none;
+      border-bottom: 5px solid #fff;
+      background: transparent;
+      width: 600px;
+      color: #fff;
+      font-size: 4rem;
+      text-align: center;
+      &:focus {
+        outline: none;
+      }
+    }
+  }
+
+  .main-todo-list {
+    .main-todo-today {
+      font-size: 2.5rem;
+      font-weight: 700;
+      margin-bottom: 30px;
+    }
+
+    .main-todo-text {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .main-todo-checkbox {
+      transform: scale(2);
+      margin-right: 15px;
+    }
+
+    .main-todo-text-content {
+      font-size: 3.5rem;
+      margin-right: 15px;
+    }
+
+    .main-todo-close-btn {
+      font-size: 3.5rem;
+      cursor: pointer;
+    }
+  }
+
+  .greeting-username-input,
+  .greeting-username,
+  .main-focus,
+  .main-todo-list,
+  .greeting-edit-btn,
+  .hide {
+    display: none;
+    opacity: 0;
+  }
+  .is-active {
+    animation: fade-in 2s;
+    animation-fill-mode: forwards;
+    display: inline-block;
+  }
+  .main-todo-text:hover > .hide {
+    display: inline-block;
+    opacity: 1;
+  }
+}
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
